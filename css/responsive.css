@@ -1,0 +1,158 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        
+        text-align: center;
+    }
+    .navbar-nav {
+        
+        background: #cfb2b2;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background: url(../images/lowarr.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+ }
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        
+        text-align: center;
+    }
+    .navbar-nav {
+        
+        background: #cfb2b2;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background: url(../images/lowarr.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+ }
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+    .navbar-light .navbar-nav .nav-link {
+        
+        text-align: center;
+    }
+    .navbar-nav {
+        
+        background: #cfb2b2;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background: url(../images/lowarr.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .banner-text {
+        
+        padding-top: 200px;
+        padding-bottom: 168px;
+        
+    }
+    .about-text h2 {
+       
+        text-align: center;
+        padding-top: 20px;
+    }
+    .about-text p {
+        
+        padding-bottom: 10px;
+        
+    }
+    .about-text a {
+       
+        width: 100%;
+        text-align: center;
+    }
+
+    #video-part {
+        
+        padding: 100px 0;
+    }
+
+    .service-item-text {
+        padding-top: 40px;
+    }
+    #service-part {
+        padding: 50px 0;
+    }
+    .bottom-para a {
+        
+        display: block;
+        width: 100%;
+    }
+    
+    .project-button a {
+       
+        width: 100%;
+    }
+    .team-arrow-left {
+        
+        top: 53px;
+        left: 73px;
+        
+    }
+
+    .team-arrow-right {
+	
+	top: 50px;
+	left: 593px;
+	
+}
+
+.contact-left a {
+	
+	width: 100%;
+	text-align: center;
+}
+    
+    
+ }
+ .contact-left h3, .contact-right h3 {
+	
+	padding-top: 35px;
+    text-align: center;
+}
+
+.footer-top-left p {
+	
+	text-align: center;
+    padding: 0;
+}
+.footer-top-middle h4 {
+	
+	padding-top: 16px;
+}
+.footer-top-middle p {
+	
+	padding-bottom: 0px;
+	
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	margin-bottom: 0;
+}
+p {
+	margin-top: 0;
+	margin-bottom: 2px;
+}
+.footer-top-left img {
+	padding-bottom: 23px;
+}
+.from6{
+    padding-top: 50px;
+}	
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+ }
